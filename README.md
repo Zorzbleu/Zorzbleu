@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pcayetan
-- 📫 Reach me on discord at @Zorzbleu#5205
+- 📫 Reach to me on discord at @POC#5205
 
 [![pcayetan'ss GitHub stats](https://github-readme-stats.vercel.app/api?username=pcayetan&theme=dark&count_private=true)](https://github.com/pcayetan)
 
